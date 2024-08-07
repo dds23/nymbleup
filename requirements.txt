@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic
+faker
+pytest
+python-dotenv
+fastapi-utils
+httpx
+redis
+aioredis
